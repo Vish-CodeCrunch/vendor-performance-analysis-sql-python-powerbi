@@ -22,7 +22,7 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-This project evaluates vendor performance and retail inventory dynamics to drive strategic insights for purchasing, pricing, and inventory optimization. A complete data pipeline was built using SQL for ETL, Python for analysis and hypothesis testing, and Power BI for visualization.
+This project evaluates vendor performance and retail inventory dynamics to drive strategic insights for purchasing, pricing, and inventory optimization. A complete data pipeline was built using SQL for ETL, Python for analysis and Power BI for visualization.
 
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
@@ -118,7 +118,7 @@ vendor-performance-analysis/
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Vendor Performance Dashboard](images/dashboard.png)
+![Vendor Performance Dashboard]("D:\VISHAL\Portfolio Project\Vendor Performance Analysis\images\dasdboard.png")
 
 ---
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
